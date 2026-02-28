@@ -32,7 +32,7 @@ Design a 4-bit ALU supporting:
 | 100    | NOT |
 
 ### 📸 Simulation Output
-(WhatsApp Image 2026-02-28 at 9.29.05 PM.jpeg)
+(blob:https://web.whatsapp.com/268ff2b0-5537-4378-a8c8-35343baeee88)
 
 ### 👩‍💻 Developed By
 Appani saipravalika  
