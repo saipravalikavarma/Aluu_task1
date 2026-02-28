@@ -32,8 +32,8 @@ Design a 4-bit ALU supporting:
 | 100    | NOT |
 
 ### 📸 Simulation Output
-(Attach waveform image here)
+(WhatsApp Image 2026-02-28 at 9.29.05 PM.jpeg)
 
 ### 👩‍💻 Developed By
-Your Name  
+Appani saipravalika  
 CODTECH Internship – Task 1
